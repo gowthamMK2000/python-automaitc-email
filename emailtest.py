@@ -3,10 +3,12 @@ from email.mime.text import MIMEText
 from email.mime.multipart  import MIMEMultipart
 
 port = 465
-smtp_server = 'smtp.gmail.com'
-sender_email = ""
-
+smtp_server = 'smtp.gmail.com' 
+#add senders email
+sender_email = "" 
+#ass password // for privacy issues you can input through command line
 password = ""
+
 
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server,port, context=context) as server :
