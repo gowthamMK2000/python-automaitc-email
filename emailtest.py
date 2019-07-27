@@ -78,7 +78,8 @@ This  mail has been sent for testing purpose(text content) (unofficial)
 			Instagram
 		</p>
 		<p>
-			Kindly Forward this to all the departments in your college
+			Kindly Forward this to all the departments in 
+ur college
 		</p>
 		<footer>This  mail has been sent for testing purpose(html content) (unofficial)</footer>
 	</body>
