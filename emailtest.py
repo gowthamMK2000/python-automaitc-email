@@ -79,7 +79,7 @@ This  mail has been sent for testing purpose(text content) (unofficial)
 		</p>
 		<p>
 			Kindly Forward this to all the departments in 
-ur college
+ college
 		</p>
 		<footer>This  mail has been sent for testing purpose(html content) (unofficial)</footer>
 	</body>
